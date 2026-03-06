@@ -1,0 +1,95 @@
+[
+  {
+    "name":"Anshika Singh",
+    "profile_photo": "https://avatars.githubusercontent.com/u/215359890",
+    "current_profession": "@anshikasingh_215",
+    "current_company": "Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur",
+    "resume_link": "",
+    "contact": {
+        "phone": "(+91) 98382 15444",
+        "email": "anshikasinghclg@gmail.com"
+    },
+    "address": {
+        "city": "Gorakhpur",
+        "permanent_address": null,
+        "current_address": null
+    },
+    "social_accounts": {
+        "github": "https://github.com/Anshika9838",
+        "linkedin": "https://www.linkedin.com/in/anshika-singh-aa6a7a330/",
+        "instagram": "https://www.instagram.com/anshikasingh_215"
+    },
+    "bio": "B.tech CSE 28' || Student at Deen Dayal Upadhyaya Gorakhpur University(DDUGU) || HTML, CSS, Javascript(basic) || JAVA",
+    "skills": [
+        "Java", "Python", "HTML", "CSS", "JavaScript", "SQL/MySQL", "Pandas", "FastAPI", "Flask", "Transformers", "Matplotlib", "Numpy"
+    ],
+    "experience": [],
+    "education": [
+        {
+            "institute_logo": null,
+            "institute_name": "DDU Gorakhpur University",
+            "course_type": "Graduation",
+            "course_name": "B.Tech(IT)",
+            "date": "2024-2028",
+            "score": null,
+            "skill_acquired": ["C", "Python", "Linux", "DSA", "AI/ML"]
+        },
+        {
+            "institute_logo": null,
+            "institute_name": "Central Hindu School Divya Nagar, Gorakhpur, UP",
+            "course_type": "Intermediate",
+            "course_name": null,
+            "date": "2023-2024",
+            "score": {
+                "score_type": "Percentage",
+                "score": 83
+            },
+            "skill_acquired": null
+        },
+        {
+            "institute_logo": null,
+            "institute_name": "PG Senior Secondary School",
+            "course_type": "High School",
+            "course_name": null,
+            "date": "2021-2022",
+            "score": {
+                "score_type": "Percentage",
+                "score": 79.6
+            },
+            "skill_acquired": null
+        }
+    ],
+    "projects": [
+        {
+            "project_title": "CampusConnect — Smart classroom management system",
+            "project_type": "Public",
+            "project_description": "An integrated platform designed to streamline academic operations. This project simplifies classroom administration by managing student attendance, scheduling, resource allocation, and real-time communication between educators and students. Built to enhance productivity and organization in modern educational environments.",
+            "core_technology": "Python",
+            "repository": "https://github.com/Anshika9838/smart-classroom-management",
+            "project_link": null
+        },
+        {
+            "project_title": "CropFit — Crop disease detection using its leaf image.",
+            "project_type": "Public",
+            "project_description": "An AI-driven solution designed to identify plant diseases from leaf images using Deep Learning. This project leverages AI models APIs to classify various crop species and their health status, providing early diagnosis to help farmers reduce crop loss and optimize pesticide use.",
+            "core_technology": "Python",
+            "repository": "https://github.com/Anshika9838/crop-disease-detection",
+            "project_link": null
+        }
+    ],
+    "certificates": [
+        {
+            "authority_logo": "https://media.licdn.com/dms/image/v2/D560BAQHSAtqIM6q5aQ/company-logo_100_100/B56ZvW98HzJ4AQ-/0/1768838120400?e=1774483200&v=beta&t=1xYV6ZgJpRxnFN0v8QjuzZ2wyPQam3LH-FyBWotCaQc",
+            "certificate_name": "RIFT'26 Hackathon",
+            "issuing_authority": "PW IoI",
+            "certified_for": "Semi-Finalist"
+        },
+        {
+            "authority_logo": "https://www.techxninjas.com/assets/techxninjas_logo-Bh_7NDX-.png",
+            "certificate_name": "Paranox 2.O Hackathon",
+            "issuing_authority": "NewtonsNewton School of Technology",
+            "certified_for": "Finalist"
+        }
+    ]
+  }
+]
