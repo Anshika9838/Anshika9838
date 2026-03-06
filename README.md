@@ -1,16 +1,75 @@
-## Hi there 👋
+<!-- ================= HEADER ================= -->
 
-<!--
-**Anshika9838/Anshika9838** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Anshika Singh</h1>
+<h3 align="center">🚀 Full-Stack Developer | Software Engineer | Problem Solver</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building scalable solutions. Crafting clean code. Engineering impact.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+```markdown
+ ████████╗███████╗ █████╗ ███╗   ███╗    ██████╗  █████╗ ██████╗  █████╗ ██████╗  ██████╗ ██╗  ██╗
+ ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║    ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔═══██╗╚██╗██╔╝
+    ██║   █████╗  ███████║██╔████╔██║    ██████╔╝███████║██████╔╝███████║██║  ██║██║   ██║ ╚███╔╝ 
+    ██║   ██╔══╝  ██╔══██║██║╚██╔╝██║    ██╔═══╝ ██╔══██║██╔══██╗██╔══██║██║  ██║██║   ██║ ██╔██╗ 
+    ██║   ███████╗██║  ██║██║ ╚═╝ ██║    ██║     ██║  ██║██║  ██║██║  ██║██████╔╝╚██████╔╝██╔╝ ██╗
+    ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝
+                                         
+```
+---
+## 🧠 Who Am I?
+```
+ /\_/\
+( o.o )
+ > ^ <
+```
+
+🎓 B.Tech CSE Student  
+💻 Passionate about Frontend Systems, UI/UX, Design Principles & Real-World Problem Solving  
+⚙️ Focused on awesome, real-world problems and systematic ssolution  
+📍 India  
+
+I don’t just code — I crafts experience.
+
+---
+
+## 🛠️ Tech Skills
+
+### 💻 Languages
+`C` • `Java` • `Python` • `JavaScript` • `HTML5` • `CSS3`
+
+### ⚙️ Frameworks & Tools
+`Git` • `Vercel` • `VM` • `Google Cloud` • `SQLite` • `Bootstrap`
+
+---
+
+### 🧩 Core Areas
+- Full-Stack Web Development  
+- Frontend Development 
+- UI/UX 
+- Problem solving  
+- Data Structure & Algorithm
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **anshikasinghclg@gmail.com**  
+📷 Instagram: https://www.instagram.com/anshikasingh_215  
+
+---
+
+## ⚡ Developer Philosophy
+
+> "Code is not just syntax — it's structured thinking."
+
+I believe in proper strategy, disciplined development, clarity in architecture, and continuous improvement.
+
+---
+
+⭐ If you like my work, consider following or collaborating!
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer&animation=twinkling" />
+</div>
